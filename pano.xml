@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="5.2.3" start="node15" apprev="15990">
+  <panorama id="node15" hideabout="1">
+    <input leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="27.6505" fov="70" pan="-156.965"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="0.77" id="Nhà Bếp" target="" title="Nhà Bếp" skinid="hotspot" description="" pan="122.15" url="{node18}"/>
+      <hotspot tilt="0.97" id="Hội Trường" target="" title="Hội Trường" skinid="hotspot" description="" pan="136.36" url="{node4}"/>
+      <hotspot tilt="-2.37" id="Hồ Bơi" target="" title="Hồ Bơi" skinid="hotspot" description="" pan="80.82" url="{node3}"/>
+      <hotspot tilt="-0.9" id="Văn Phòng 1" target="" title="Văn Phòng 1" skinid="hotspot_left" description="" pan="6.12" url="{node16}"/>
+      <hotspot tilt="0.21" id="Văn Phòng 2" target="" title="Văn Phòng 2" skinid="hotspot_left" description="" pan="-8.58" url="{node17}"/>
+      <hotspot tilt="2.23" id="Phòng Tin Học" target="" title="Phòng Tin Học" skinid="hotspot_left" description="" pan="-25.33" url="{node14}"/>
+      <hotspot tilt="-5.98" id="Phòng Quản Nhiệm" target="" title="Phòng Quản Nhiệm" skinid="hotspot" description="" pan="-169.89" url="{node13}"/>
+      <hotspot tilt="4.86" id="Khu Lớp Học" target="" title="Khu Lớp Học" skinid="hotspot" description="" pan="-147.72" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node1" hideabout="1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:33 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.38257" fov="70" pan="78.95"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-2.48" id="Vệ Sinh Nam" target="" title="Vệ Sinh Nam" skinid="hotspot_right" description="" pan="72.91" url="{node7}"/>
+      <hotspot tilt="-2.6" id="Vệ Sinh Nữ" target="" title="Vệ Sinh Nữ" skinid="hotspot_left" description="" pan="86.16" url="{node8}"/>
+      <hotspot tilt="-4.84" id="Lớp Học" target="" title="Lớp Học" skinid="hotspot_right" description="" pan="50.06" url="{node12}"/>
+      <hotspot tilt="-9.1" id="Phòng Âm Nhạc" target="" title="Phòng Âm Nhạc" skinid="hotspot" description="" pan="-114.55" url="{node11}"/>
+      <hotspot tilt="-9.08" id="Khu Lớp Học" target="" title="Khu Lớp Học" skinid="hotspot" description="" pan="-151.29" url="{node5}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-8.93344" fov="49.2095" pan="26.8138"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-0.88" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="42.84" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="3.33978" fov="70" pan="-60.2692"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="4.42" id="Khu Nội Trú Nam" target="" title="Khu Nội Trú Nam" skinid="hotspot_left" description="" pan="-41.09" url="{node9}"/>
+      <hotspot tilt="3.69" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="-68.14" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.09634" fov="49.2095" pan="69.0553"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="4.15" id="Hành Lang Lầu 1" target="" title="Hành Lang Lầu 1" skinid="hotspot" description="" pan="83.67" url="{node2}"/>
+      <hotspot tilt="-20.6" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="-115.66" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1024" width="1024" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-6.27025" fov="70" pan="-11.9209"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-1.13" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="168.24" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-28.9762" fov="49.2095" pan="-122.241"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-7.64" id="Hành Lang Lầu 1" target="" title="Hành Lang Lầu 1" skinid="hotspot_left" description="" pan="94.64" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-18.9242" fov="49.2095" pan="-18.0506"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-5.99" id="Hành Lang Lầu 1" target="" title="Hành Lang Lầu 1" skinid="hotspot_right" description="" pan="173.8" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-15.709" fov="49.2095" pan="104.229"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-4.27" id="Nội Trú Nữ" target="" title="Nội Trú Nữ" skinid="hotspot" description="" pan="108.72" url="{node10}"/>
+      <hotspot tilt="-29.66" id="Hội Trường" target="" title="Hội Trường" skinid="hotspot" description="" pan="76.84" url="{node4}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/9/2018 9:29 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-4.85" id="Khu Nội Trú Nam" target="" title="Khu Nội Trú Nam" skinid="hotspot_left" description="" pan="-58.39" url="{node9}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-15.709" fov="49.2095" pan="104.229"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:14 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-9.7" id="Hành Lang Lầu 1" target="" title="Hành Lang Lầu 1" skinid="hotspot" description="" pan="107.2" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-2.80462" fov="49.2095" pan="8.26095"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-11.21" id="Hành Lang Lầu 1" target="" title="Hành Lang Lầu 1" skinid="hotspot" description="" pan="-171.01" url="{node2}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:18 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-5.85" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot_left" description="" pan="-59.05" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.14927" fov="49.2095" pan="-5.42549"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:06 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-3.88" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="-20.88" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node16" hideabout="1">
+    <input leveltileurl="tiles/node16/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-17.6812" fov="49.2095" pan="-39.2767"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:27 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-5.38" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="152.67" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node17" hideabout="1">
+    <input leveltileurl="tiles/node17/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1607" width="1607" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1607" width="1607" preload="0"/>
+      <level predecode="0" height="803" width="803" preload="0"/>
+      <level predecode="1" height="401" width="401" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-11.8739" fov="49.2095" pan="9.52509"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="12/12/2017 3:01 PM" author="" tags="FULL HINH" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-4.2" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="172.86" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+  <panorama id="node18" hideabout="1">
+    <input leveltileurl="tiles/node18/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingroll="0" leveltilesize="510" levelbiashidpi="0.400" height="1024" width="1024" overlap="1" levelingpitch="0" levelbias="0.400">
+      <level predecode="0" height="1024" width="1024" preload="0"/>
+      <level predecode="0" height="512" width="512" preload="0"/>
+      <level predecode="1" height="256" width="256" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="0" pannorth="0">
+      <start projection="4" tilt="-7.22046" fov="49.2095" pan="163.217"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fov="5" pan="0"/>
+      <max fovfisheye="360" tilt="90" scaletofit="1" fov="120" pan="360" fovstereographic="270"/>
+    </view>
+    <userdata latitude="" customnodeid="" source="" longitude="" title="" comment="" description="" copyright="" datetime="" author="" tags="Pano2VR5" info=""/>
+    <hotspots wordwrap="1" height="20" width="180">
+      <label bordercolor="0x000000" wordwrap="1" enabled="1" border="1" backgroundcolor="0xffffff" backgroundalpha="1" height="20" background="1" borderradius="1" textcolor="0x000000" borderalpha="1" width="180" textalpha="1"/>
+      <polystyle bordercolor="0x0000ff" backgroundcolor="0x0000ff" backgroundalpha="0.2509803921568627" mode="0" handcursor="1" borderalpha="1"/>
+      <hotspot tilt="-3.38" id="Sân Trường" target="" title="Sân Trường" skinid="hotspot" description="" pan="168.89" url="{node15}"/>
+    </hotspots>
+    <media/>
+    <transition blendcolor="0x000000" zoomout="0" zoomspeed="2" zoomfov="20" enabled="0" blendtime="1" type="crossdissolve" softedge="0" zoomin="0" zoomoutpause="1"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0"/>
+    <control contextfullscreen="0" lockedmouse="0" invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" speedwheel="1" lockedkeyboard="0" invertwheel="0" dblclickfullscreen="0" hideabout="1" sensitivity="8" simulatemass="1" lockedwheel="0"/>
+  </panorama>
+</tour>
